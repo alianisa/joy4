@@ -1,10 +1,10 @@
 package main
 
 import (
-	"github.com/VKCOM/joy4/av/avutil"
-	"github.com/VKCOM/joy4/av/pktque"
-	"github.com/VKCOM/joy4/format"
-	"github.com/VKCOM/joy4/format/rtmp"
+	"github.com/aloim/joy4/av/avutil"
+	"github.com/aloim/joy4/av/pktque"
+	"github.com/aloim/joy4/format"
+	"github.com/aloim/joy4/format/rtmp"
 )
 
 func init() {

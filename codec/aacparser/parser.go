@@ -3,8 +3,8 @@ package aacparser
 import (
 	"bytes"
 	"fmt"
-	"github.com/VKCOM/joy4/av"
-	"github.com/VKCOM/joy4/utils/bits"
+	"github.com/aloim/joy4/av"
+	"github.com/aloim/joy4/utils/bits"
 	"io"
 	"time"
 )
