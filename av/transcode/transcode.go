@@ -3,8 +3,8 @@ package transcode
 
 import (
 	"fmt"
-	"github.com/VKCOM/joy4/av"
-	"github.com/VKCOM/joy4/av/pktque"
+	"github.com/aloim/joy4/av"
+	"github.com/aloim/joy4/av/pktque"
 	"github.com/sirupsen/logrus"
 	"time"
 )
